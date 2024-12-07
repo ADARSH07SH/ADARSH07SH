@@ -14,4 +14,4 @@ I'm an aspiring full-stack developer with a passion for creating web application
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/adarsh-sh-582891297)
-- [Email]: (adarsh07sh@gmail.com)
+- [Email](adarsh07sh@gmail.com)
