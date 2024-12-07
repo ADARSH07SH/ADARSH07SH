@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Adarsh 👋
 
-<!--
-**ADARSH07SH/ADARSH07SH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring full-stack developer with a passion for creating web applications.
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
+- Full-stack web development (React, Node.js)
+- DSA
+- Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- JavaScript, Python, C++
+- React, Node.js, Express
+- Git, Docker, VSCode
+
+## 📫 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/adarsh-sh-582891297)
+- [Email]: (adarsh07sh@gmail.com)
