@@ -6,8 +6,7 @@
 ### 🧠 Currently Exploring
 - 🌐 Full-stack development with React & Node.js  
 - 📚 DSA for problem-solving  
-- ☁️ Cloud with Azure  
-- 🔍 Machine Learning Fundamentals  
+- ☁️ Cloud with AWS  
 
 ---
 
